@@ -9,7 +9,7 @@ Predicts **recorded bird species richness** for Sri Lankan districts using ensem
 > Claude (Anthropic). I ran the code, checked the outputs and wrote the interpretation myself.
 
 ## Live dashboard
-[WRITE HERE: Streamlit Cloud link]
+https://srilanka-bird-ensemble-dashboard-wt9kjnvspuhqmjh4dluozc.streamlit.app/
 
 ## Folder structure
 ```
