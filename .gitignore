@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+# raw dataset is too big for GitHub (over 100 MB)
+data/raw/
+notebooks/catboost_info/

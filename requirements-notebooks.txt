@@ -1,0 +1,6 @@
+# Extra packages to run the notebooks (in addition to requirements.txt)
+matplotlib
+seaborn
+statsmodels
+shap
+ipykernel
